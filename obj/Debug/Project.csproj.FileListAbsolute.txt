@@ -1,0 +1,10 @@
+C:\Users\medine\source\repos\Project\bin\Debug\Project.exe.config
+C:\Users\medine\source\repos\Project\bin\Debug\Project.exe
+C:\Users\medine\source\repos\Project\bin\Debug\Project.pdb
+C:\Users\medine\source\repos\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\medine\source\repos\Project\obj\Debug\Project.Form1.resources
+C:\Users\medine\source\repos\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\medine\source\repos\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\medine\source\repos\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\medine\source\repos\Project\obj\Debug\Project.exe
+C:\Users\medine\source\repos\Project\obj\Debug\Project.pdb
