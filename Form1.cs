@@ -28,7 +28,7 @@ namespace Project
         private static void WriteFile(int UsersDeadlock, int DeadlocksTime, String UserType)
         {
             
-            String FilePath = @"C:\Users\medine\Desktop\Records.txt";
+            String FilePath = @"..\Records.txt";
             FileStream fileForRecords = new FileStream(FilePath, FileMode.Append, FileAccess.Write);
             StreamWriter sw = new StreamWriter(fileForRecords);
             
